@@ -114,3 +114,7 @@ A list of regexes that is applied against the URL and picks out which ones match
 **History**
 
 Most of history is not super interesting anymore because it has to do with support for old browsers.  But the one cool hack is that to use a secrete iFrame for oldIE that writes new fragment URLs that get stuck in your browser history.
+
+**Upcoming**
+
+More hooks for overriding jQuery so you can replace it with closer to native DOM calls.
